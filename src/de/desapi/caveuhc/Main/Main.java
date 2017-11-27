@@ -25,6 +25,7 @@ import de.desapi.caveuhc.Utils.Utils;
 public class Main extends JavaPlugin {
 		
   public Utils utils;
+  public static int chestspawn = 15;
   public static Main main;
   public static String pr = "§eCaveUHC §8● ";
   public boolean newgame = false;
@@ -43,7 +44,6 @@ public class Main extends JavaPlugin {
   public int deathmatch = 300;
   public int before = 60;
   public int restart = 15;
-  public static int chestspawn = 15;
   public int grace = 3;
   public int dmstart = 3;
   
