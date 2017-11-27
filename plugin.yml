@@ -1,0 +1,11 @@
+name: CaveUHC
+version: 1.0
+author: DesAPI
+
+main: de.DesAPI.CaveUHC.Main.Main
+
+commands:
+  setLobby:
+  setSpawn:
+  start:
+  setdeathmatch:
